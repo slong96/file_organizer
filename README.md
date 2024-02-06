@@ -5,9 +5,6 @@ This Python script organizes files within a specified directory based on their f
 ## Usage
 Run the script in a Python environment.
 
-```bash
-python file_organizer.py
-```
 Enter the path of the directory containing the unorganized files when prompted.
 
 The script will organize the files by moving them into folders based on their extension names.
