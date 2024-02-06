@@ -11,3 +11,8 @@ python file_organizer.py
 Enter the path of the directory containing the unorganized files when prompted.
 
 The script will organize the files by moving them into folders based on their extension names.
+
+# Future Features
+- Add database to save path.
+- Option to change path.
+- Automate script to run at a certain time.
