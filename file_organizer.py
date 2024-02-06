@@ -35,4 +35,4 @@ for file in files:
         os.makedirs(f'{path}/{extension}')
         shutil.move(f'{path}/{file}', f'{path}/{extension}/{file}')
     
-print(f'Files in {path} are now organized.')
+print(f'Files are now organized.')
